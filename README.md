@@ -9,5 +9,5 @@ To test the setup of the pacman level type pacman into the command line and you 
 To test the pellets, fruit, and power pellets, you can collect a shotgun ammo and recieve 10 points, collect fruit and get 100 points, or collect the power pellets and recieve 50 points and the ability to kill the enemies
 
 The camera does not work
-The player movementis not locked along the axis
+The player movement is not locked along the axis
 The ghosts do not behave like they do in the original pac man
